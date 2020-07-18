@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: yellow;
+  background-image: linear-gradient(orange,green,blue);
+}
+
+div {
+  display: flex;
+  justify-content: center;
+
+ 
+
+}
+
+div h1{
+  margin: 200px 400px;
+  border: 2px solid red;
+  border-radius: 50px;
+  background-color: azure;
+  padding: 30px;
+  color: blue;
+  
+}
+

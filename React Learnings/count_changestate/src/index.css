@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  position:fixed;
+  top: 30%;
+  left: 50%;
+
+}
+
+.counter{
+   color: orange;
+   margin-left: 20px;
+   
+}
+
+.btn{
+   background-color: blue;
+   border: 1px solid brown;
+   padding: 10px;
+   
+
+}
